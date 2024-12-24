@@ -1,6 +1,7 @@
 <?php session_start();
 include('includes/dbconnection.php');
 
+
 if(isset($_POST['submit']))
   {
     $uname=$_POST['id'];
