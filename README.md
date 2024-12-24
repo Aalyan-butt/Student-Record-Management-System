@@ -54,13 +54,7 @@ Use the following credentials to log in as the admin:
 - **Username**: `admin`
 - **Password**: `Test@12345`
 
-## Screenshots
-
-Below are some screenshots of the system in action:
-
-- **Login Page**: *[Insert screenshot here]*
-- **Admin Dashboard**: *[Insert screenshot here]*
-- **Student Management Interface**: *[Insert screenshot here]*
+---
 
 ## Technologies Used
 
@@ -84,7 +78,6 @@ We welcome contributions to the **Student Record Management System**! If you'd l
 ## Acknowledgments
 
 - A huge thank you to the contributors and resources that made the development of this project possible.
-- Special thanks to **[insert any other contributors or sources]** for providing valuable insights during the development.
 
 ---
 
